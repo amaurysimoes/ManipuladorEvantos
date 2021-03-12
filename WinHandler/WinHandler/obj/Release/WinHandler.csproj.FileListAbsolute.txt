@@ -1,0 +1,6 @@
+C:\Users\SAVINO\source\repos\BASE_CLASS\WinHandler\WinHandler\bin\Release\WinHandler.dll
+C:\Users\SAVINO\source\repos\BASE_CLASS\WinHandler\WinHandler\bin\Release\WinHandler.pdb
+C:\Users\SAVINO\source\repos\BASE_CLASS\WinHandler\WinHandler\obj\Release\WinHandler.csprojAssemblyReference.cache
+C:\Users\SAVINO\source\repos\BASE_CLASS\WinHandler\WinHandler\obj\Release\WinHandler.csproj.CoreCompileInputs.cache
+C:\Users\SAVINO\source\repos\BASE_CLASS\WinHandler\WinHandler\obj\Release\WinHandler.dll
+C:\Users\SAVINO\source\repos\BASE_CLASS\WinHandler\WinHandler\obj\Release\WinHandler.pdb

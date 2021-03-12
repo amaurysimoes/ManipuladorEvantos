@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WinHandler</name>
+    </assembly>
+    <members>
+        <member name="M:WinHandler.WinHandler.GetHandlePointer(System.String,WinHandler.WinHandler.SearchType)">
+            <summary>
+            Return the handle pointer to window that meet the search condition
+            </summary>
+            <param name="searchName">Process Name ou Window Title</param>
+            <param name="searchType">Type of search</param>
+            <returns>Return IntPtr.Zero if not found any matching</returns>
+        </member>
+    </members>
+</doc>
